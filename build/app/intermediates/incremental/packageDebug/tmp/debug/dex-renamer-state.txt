@@ -1,0 +1,4 @@
+#Thu Jul 21 10:10:19 WAT 2022
+base.0=/home/dayane/StudioProjects/Flutter_projet/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
